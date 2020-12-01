@@ -32,10 +32,12 @@ export const StyledHeroImage = styled.div`
     background: rgba(0, 0, 0, 0);
     color: blue;
 
+
     h1 {
       font-family: 'Abel', sans-serif;
       font-size: 48px;
       color:#25BAD4;
+      margin-left:20px;
 
       @media screen and (max-width: 720px) {
         font-size: 38px;
@@ -48,6 +50,7 @@ export const StyledHeroImage = styled.div`
       font-size: 22px;
       line-height: 26px;
       color: #fff;
+      margin-left:20px;
 
       @media screen and (max-width: 720px) {
         font-size: 16px;

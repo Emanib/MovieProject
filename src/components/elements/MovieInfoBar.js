@@ -25,7 +25,7 @@ export const MovieInfoBar=({time,budget,revenue})=>
                     </div>
                      
 
-
+                  
                     <div className="movieinfobar-content-col ">
                     <FontAesome className="fa-revenue " name ="Ticket" size ="2x"/>
                     <span className="movieinfobar-info "> 

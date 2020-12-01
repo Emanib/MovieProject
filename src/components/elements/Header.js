@@ -20,6 +20,7 @@ const  Header = ()=>
         < StyledTMDBLogo src = {TMDB}  alt ="TMDB-logo" />
 
      </div>
+  
 
 
        </StyledHeader>

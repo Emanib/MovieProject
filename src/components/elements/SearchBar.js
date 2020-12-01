@@ -29,8 +29,9 @@ const SearchBar = ({callback})=>
     
     
     />
-
        </StyledSearchBarContent>
+     
+
  </StyledSearchBar>
 )}
   

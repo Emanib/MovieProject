@@ -1,8 +1,5 @@
-import react from 'react'; 
-import Styled from 'styled-components'
-import { StyledHeroImage} from '../styles/StyledHeroImage';
-import Toggle from './Toggle'
 
+import { StyledHeroImage} from '../styles/StyledHeroImage';
 const HeroImage = ({image,title,text})=> 
 
 {
@@ -13,8 +10,6 @@ const HeroImage = ({image,title,text})=>
               <div className ="heroimage-text">
                      <h1>    {title} </h1>
                      <p>    {text} </p>
-                         
-
               </div>
 
 

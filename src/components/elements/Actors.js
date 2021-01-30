@@ -1,6 +1,6 @@
 import React from 'react'; 
 import no_image from '../images/no_image.jpg';
-import {IMAGE_BASE_URL,IMAGE_POSTER_SIZE, POSTER_SIZE} from '../../config';
+import {IMAGE_BASE_URL, POSTER_SIZE} from '../../config';
 import {StyledActor} from '../styles/StyledActor'
 
 

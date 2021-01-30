@@ -36,7 +36,7 @@ const isLoad = endpoint.search('page');
   useEffect(() => {
     fetchMovies(POPULAR_BASE_URL);
   }, [])
-  console.log(state)
+ 
 
   return [{ state, loading, error }, fetchMovies];
 }

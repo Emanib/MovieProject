@@ -1,4 +1,3 @@
-import styled, { withTheme } from 'styled-components';
 
 export const lightTheme = 
 {
